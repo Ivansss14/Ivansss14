@@ -14,9 +14,9 @@
 
 ## 🌧️ What I'm currently working on
 
--**🐍Climate Data Analysis:** I use different Python programs to analyze, merge, clean and interpolate in a scale of 30-45 years of climate data from AEMET and Inforiego across Castilla y León comunnity in Spain.
+-**🐍Climate Data Analysis:** I use different Python programs to analyze, merge, clean and interpolate in a scale of 30-45 years of climate data from AEMET and Inforiego across Castilla y León community in Spain.
 
-**📈Visualyze and Study the Results:** I design code in Python to analyze the trends of temperature and precipitation to study if climate change is visually appreciable in Castilla y León.
+**📈Visualize and Study the Results:** I design code in Python to analyze the trends of temperature and precipitation to study if climate change is visually appreciable in Castilla y León.
 
 **📖Studies:** Also, I'm finalizing my studies with the expectation of finishing in January 2027. During my studies I learnt how to resolve complex problems with precision and I used (and continue to use) Fortran, C++, Excel, Mathematica, LaTex... 
 
