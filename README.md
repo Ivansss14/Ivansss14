@@ -48,10 +48,7 @@
   <img src="https://img.shields.io/badge/Microsoft_Office-D83B01?style=for-the-badge&logo=microsoftoffice&logoColor=white" alt="Microsoft Office" />
 </p>
 
-## 📊 My GitHub Stats
-<p align="left">
-  <img src="https://github-readme-stats.vercel.app/api?username=Ivansss14&show_icons=true&theme=radical" alt="Ivansss14's GitHub stats" />
-</p>
+
 
 
 
