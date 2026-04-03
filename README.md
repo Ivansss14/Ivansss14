@@ -1,4 +1,4 @@
-## Hi everyone!, I'm Iván Méndez Tomé 😊
+## Hi Everyone!, I'm Iván Méndez Tomé 😊
 
 ## 🙌 About Me
 
